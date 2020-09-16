@@ -1,0 +1,6 @@
+Annotation files needed:
+
+v2_mscoco_train2014_annotations.json
+v2_mscoco_val2014_annotations.json
+v2_OpenEnded_mscoco_train2014_questions.json
+v2_OpenEnded_mscoco_val2014_questions.json
